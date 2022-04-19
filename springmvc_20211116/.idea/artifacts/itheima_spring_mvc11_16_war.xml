@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itheima_spring_mvc11_16:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/itheima_spring_mvc11_16_war</output-path>
+    <root id="archive" name="itheima_spring_mvc11_16_war.war">
+      <element id="artifact" artifact-name="itheima_spring_mvc11_16:war exploded" />
+    </root>
+  </artifact>
+</component>

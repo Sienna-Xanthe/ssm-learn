@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/itheima_ssm" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/itheima_spring_mvc11_16/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_test/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_aop/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_tx/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_tx_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_mybatis_quick/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_mybatis_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_mybatis_mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_mybatis_multi/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_mybatis_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_ssm/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itheima_mybatis_anno/itheima_mybatis_anno.iml" filepath="$PROJECT_DIR$/itheima_mybatis_anno/itheima_mybatis_anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_mybatis_dao/itheima_mybatis_dao.iml" filepath="$PROJECT_DIR$/itheima_mybatis_dao/itheima_mybatis_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_mybatis_mapper/itheima_mybatis_mapper.iml" filepath="$PROJECT_DIR$/itheima_mybatis_mapper/itheima_mybatis_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_mybatis_multi/itheima_mybatis_multi.iml" filepath="$PROJECT_DIR$/itheima_mybatis_multi/itheima_mybatis_multi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_mybatis_quick/itheima_mybatis_quick.iml" filepath="$PROJECT_DIR$/itheima_mybatis_quick/itheima_mybatis_quick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_spring_aop/itheima_spring_aop.iml" filepath="$PROJECT_DIR$/itheima_spring_aop/itheima_spring_aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_spring_interceptor/itheima_spring_interceptor.iml" filepath="$PROJECT_DIR$/itheima_spring_interceptor/itheima_spring_interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_spring_jdbc/itheima_spring_jdbc.iml" filepath="$PROJECT_DIR$/itheima_spring_jdbc/itheima_spring_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_spring_mvc11_16/itheima_spring_mvc11_16.iml" filepath="$PROJECT_DIR$/itheima_spring_mvc11_16/itheima_spring_mvc11_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_spring_test/itheima_spring_test.iml" filepath="$PROJECT_DIR$/itheima_spring_test/itheima_spring_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_spring_tx/itheima_spring_tx.iml" filepath="$PROJECT_DIR$/itheima_spring_tx/itheima_spring_tx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_spring_tx_anno/itheima_spring_tx_anno.iml" filepath="$PROJECT_DIR$/itheima_spring_tx_anno/itheima_spring_tx_anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_ssm/itheima_ssm.iml" filepath="$PROJECT_DIR$/itheima_ssm/itheima_ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_20211116.iml" filepath="$PROJECT_DIR$/springmvc_20211116.iml" />
+    </modules>
+  </component>
+</project>
